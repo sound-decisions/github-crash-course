@@ -87,6 +87,20 @@ $displayTestContent = false;
 
     <?php }?>
 
+
+
+
+
+    <!-- Hero Section -->
+    <div class="w3-container mt-20">
+      <div class="container-flex-between">
+        <div>Text Area</div>
+        <img src="/assets/images/Sound_Decisions_Logo_Orange_no_text_500x500.png" class="hero-logo-image">
+      </div>
+    </div>
+
+
+
     <!-- Header -->
     <div class="w3-container" style="margin-top:80px" id="showcase">
       <h1 class="w3-jumbo"><b>Interior Design</b></h1>
