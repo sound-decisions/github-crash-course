@@ -22,6 +22,20 @@ body {
 
 /* Sections */
 
+/* Font */
+
+h1 {
+  color: #444343;
+}
+
+a {
+  color: #34324c;
+}
+a:hover,
+a:focus {
+  color: #ffa600;
+}
+
 /* Padding */
 
 .p-20 {
