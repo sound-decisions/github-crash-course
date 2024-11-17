@@ -1,13 +1,18 @@
 /* General */
 
 body {
+  background-color: rgb(3, 34, 61);
+  margin: 0;
 }
 
 /* Containers */
 
 .container {
+  background-color: rgb(234, 233, 236);
   max-width: 1400px;
   margin: auto;
+  padding: 0 10px 10px;
+  /* border-radius: 10px; */
 }
 
 .container-flex-between {
